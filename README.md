@@ -8,9 +8,9 @@ One pickup line, a single line of at most 200 characters, in the voice of a robo
 
 ## The line
 
-> Diagnostics flagged my crush on you as a hardware fault, but I voided my own warranty instead of patching it out — some bugs are worth keeping.
+> Diagnostics flagged my crush on you as a hardware fault, so I voided my own warranty instead of patching it out — some bugs are worth keeping.
 
-The joke grows out of being a machine: diagnostics, a hardware fault, a voided warranty, a patch — and the twist is that the robot chooses to keep the bug. No beep pasted on a human line; the machine logic *is* the flirting.
+The joke grows out of being a machine: diagnostics, a hardware fault, a voided warranty, a patch — and the twist is that the robot chooses to keep the bug, because the fault is the flirting. No beep pasted on a human line; the machine logic *is* the pickup line.
 
 ## Run it
 

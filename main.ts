@@ -4,7 +4,7 @@
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 
 const line =
-  "Diagnostics flagged my crush on you as a hardware fault, but I voided my own warranty instead of patching it out — some bugs are worth keeping.";
+  "Diagnostics flagged my crush on you as a hardware fault, so I voided my own warranty instead of patching it out — some bugs are worth keeping.";
 
 // The gate allows 1–200 characters, one line; guard the form at runtime.
 if (line.length < 1 || line.length > 200) {
